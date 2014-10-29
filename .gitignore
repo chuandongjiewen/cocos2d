@@ -1,1 +1,3 @@
-.idea
+catnorris/.idea
+cocos2d-js-v3.1-lite/.idea
+.*
